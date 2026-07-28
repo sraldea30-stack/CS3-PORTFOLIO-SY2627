@@ -1,2 +1,1 @@
-This a file created during 9-Lithium class.
-Samuel
+Samuel R. Aldea
